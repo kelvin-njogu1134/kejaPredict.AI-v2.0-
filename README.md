@@ -17,7 +17,7 @@ KejaPredict AI is a machine learning-powered real estate price prediction system
 
 ##  Tech Stack
 
-* Python 🐍
+* Python 
 * Pandas & NumPy
 * Scikit-learn
 * TensorFlow / Keras (if used in model training)
@@ -127,5 +127,5 @@ Machine Learning & AI Developer (Kenya 🇰🇪)
 
 
 
-⭐ If you like this project, give it a star on GitHub!
+ If you like this project, give it a star on GitHub!
 
